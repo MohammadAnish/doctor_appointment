@@ -1,0 +1,179 @@
+{
+  "project_info": {
+    "project_number": "806861388182",
+    "firebase_url": "https://doctor-appointment-booki-5e0e8-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "doctor-appointment-booki-5e0e8",
+    "storage_bucket": "doctor-appointment-booki-5e0e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806861388182:android:f12412020a68e35ca4c5b7",
+        "android_client_info": {
+          "package_name": "com.example.doctor_appointment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "806861388182-cr5su9b0573hp134eqf9a2r97n8mv3kl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhnW16j_MpyiZy3qRkVlQOtZMFtbGPspE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "806861388182-cr5su9b0573hp134eqf9a2r97n8mv3kl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "806861388182-gjtaftsacp4r7q2ejhjggvikc8gd0puo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.jivah.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806861388182:android:0b4b13a662f2e003a4c5b7",
+        "android_client_info": {
+          "package_name": "com.example.slatable_new"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "806861388182-3cu8q84ms5jpd9hjf8jfqq8olt0u8ngf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.slatable_new",
+            "certificate_hash": "d8ddd79a63033cf3f79aefa81489c0c0ddea424f"
+          }
+        },
+        {
+          "client_id": "806861388182-a11c1u5sfeckig3kk1fo3oa1om10lhvh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.slatable_new",
+            "certificate_hash": "9322b0630acc12536bc373f24d38067555ba2037"
+          }
+        },
+        {
+          "client_id": "806861388182-cr5su9b0573hp134eqf9a2r97n8mv3kl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhnW16j_MpyiZy3qRkVlQOtZMFtbGPspE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "806861388182-cr5su9b0573hp134eqf9a2r97n8mv3kl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "806861388182-gjtaftsacp4r7q2ejhjggvikc8gd0puo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.jivah.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806861388182:android:bfa10fe62cc1dbe0a4c5b7",
+        "android_client_info": {
+          "package_name": "com.jivah.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "806861388182-cr5su9b0573hp134eqf9a2r97n8mv3kl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhnW16j_MpyiZy3qRkVlQOtZMFtbGPspE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "806861388182-cr5su9b0573hp134eqf9a2r97n8mv3kl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "806861388182-gjtaftsacp4r7q2ejhjggvikc8gd0puo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.jivah.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806861388182:android:c7d0a29da9c681fba4c5b7",
+        "android_client_info": {
+          "package_name": "dev.flutter.tv.flutter_tv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "806861388182-1o23t2f53ghre7rtm5ebr0tbqd9g7beo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dev.flutter.tv.flutter_tv",
+            "certificate_hash": "d8ddd79a63033cf3f79aefa81489c0c0ddea424f"
+          }
+        },
+        {
+          "client_id": "806861388182-cr5su9b0573hp134eqf9a2r97n8mv3kl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhnW16j_MpyiZy3qRkVlQOtZMFtbGPspE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "806861388182-cr5su9b0573hp134eqf9a2r97n8mv3kl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "806861388182-gjtaftsacp4r7q2ejhjggvikc8gd0puo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.jivah.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
